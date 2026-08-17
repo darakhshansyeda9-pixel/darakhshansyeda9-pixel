@@ -3,14 +3,39 @@
 <!--
 **darakhshansyeda9-pixel/darakhshansyeda9-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hi, I'm Syeda Darakhshan Shahab 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🎓 Software Engineering Student  
+💻 Interested in Software Development  
+🌱 Currently learning Java, C#, DSA & Web Development
+
+## 🛠️ Skills
+
+- Java
+- C#
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Git & GitHub
+- HTML & CSS
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Web Development
+- Software Engineering Practices
+
+## 🚀 Projects
+
+Coming soon...
+
+## 🎯 Goals
+
+- Build real-world software projects
+- Improve my problem-solving skills
+- Contribute to open-source projects
+- Prepare for software engineering internships
+
+## 📫 Connect With Me
+https://github.com/darakhshansyeda9-pixel
+- GitHub: [@darakhshan](https://github.com/darakhshan)
 -->
